@@ -18,3 +18,6 @@ for (let i = 0; i < accordian.length; i++) {
     }
   });
 }
+
+let test = "olá"
+console.log(test)
